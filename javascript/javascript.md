@@ -43,3 +43,4 @@ console.log(num3); //결과값은 3
                      0         1
  
  
+## DOM
