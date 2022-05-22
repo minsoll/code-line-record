@@ -1,5 +1,8 @@
 
 
+![화면 캡처 2022-05-22 120645](https://user-images.githubusercontent.com/101937709/169676836-ac009a75-c61d-44ff-b81d-9e1d9e23429a.jpg)
+
+
 
 
 ```let num3 = 1;
