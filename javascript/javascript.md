@@ -51,3 +51,10 @@ console.log(num3); //결과값은 3
  
  
 ## DOM
+문자 <meta charsests = "utf-8"><br>
+토큰
+노드 `html` `head` `body`
+
+DOM html의 파싱결과물document.getElementByld("id)
+
+document.getElementsByTagName(
