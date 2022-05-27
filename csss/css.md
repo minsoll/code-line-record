@@ -1,4 +1,4 @@
-h2 {
+``` h2 {
 font-size:20px;
 color:#282828;
 font-weight: lighter;
@@ -29,6 +29,7 @@ margin-left: auto;    박스가 왼쪽 정렬
 border: 1px solid #ebebeb;
 
 box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1); 
+```
 
 - x-position : 가로 위치입니다. 양수면 오른쪽에, 음수면 왼쪽에 그림자가 만들어집니다. (필수)
 - y-position : 세로 위치입니다. 양수면 아래쪽에, 음수면 위쪽에 그림자가 만들어집니다. (필수)
@@ -55,7 +56,7 @@ p 테두리 안
 
 
 # 코드
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+```@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
 
 * {
     font-family: 'Montserrat';
@@ -160,3 +161,4 @@ footer {
     font-size: 12px;
     color: #919191;
 }
+```
