@@ -58,3 +58,21 @@ console.log(num3); //결과값은 3
 DOM html의 파싱결과물document.getElementByld("id)
 
 document.getElementsByTagName(
+
+## querySelector
+.querySelector()
+.querySelector()는 CSS 선택자로 요소를 선택하게 해줍니다. 주의할 점은 선택자에 해당하는 첫번째 요소만 선택한다는 것입니다.
+document.querySelector( '.xyz' )
+는 클래스 값이 xyz인 첫번째 요소에 접근합니다.
+
+
+## scroll event
+window.addEventListener('scroll', function() {});
+
+![화면 캡처 2022-05-27 181947](https://user-images.githubusercontent.com/101937709/170671060-a4d6c8eb-09d4-404d-b21a-270784732a43.jpg)
+
+
+## 타이머
+setTimeout 타이머가 만료된 후에 호출<br>
+setInteral
+
