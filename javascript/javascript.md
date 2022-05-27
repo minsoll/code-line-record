@@ -1,6 +1,6 @@
 
+![자바스크립트 수강](https://user-images.githubusercontent.com/101937709/170771790-3b11250e-e2ab-4ab7-92a8-b439559069a0.jpg)
 
-![화면 캡처 2022-05-22 120645](https://user-images.githubusercontent.com/101937709/169676836-ac009a75-c61d-44ff-b81d-9e1d9e23429a.jpg)
 
 
 
