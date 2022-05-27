@@ -1,6 +1,4 @@
 
-![자바스크립트 수강](https://user-images.githubusercontent.com/101937709/170771790-3b11250e-e2ab-4ab7-92a8-b439559069a0.jpg)
-
 
 
 
